@@ -17,6 +17,8 @@
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Nico235711&show_icons=true)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nico235711&label=Profile%20views&color=0e75b6&style=flat" alt="Nico235711" /> </p>
+
 <!---
 Nico235711/Nico235711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
