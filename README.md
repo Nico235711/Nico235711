@@ -18,9 +18,10 @@
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/nicol%C3%A1s-l%C3%B3pez-vidueiros-653437229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicolás%20Lopez%20Vidueiros-green?style=flat-square&logo=linkedin"></a>
- 
+<a href="https://www.linkedin.com/in/nicol%C3%A1s-l%C3%B3pez-vidueiros-653437229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicolás%20Lopez%20Vidueiros-blue?style=flat-square&logo=linkedin"></a>
+<a href="nicolas.lopez.vidueiros@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>   
 
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Nico235711&show_icons=true)
 
 <!---
 Nico235711/Nico235711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
