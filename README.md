@@ -10,7 +10,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=Python)
-  ![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=C++)
+  ![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=Cpp)
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-l%C3%B3pez-vidueiros-653437229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicolás%20Lopez%20Vidueiros-blue?style=flat-square&logo=linkedin"></a>
