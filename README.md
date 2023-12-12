@@ -1,4 +1,11 @@
-<h1>Hola! Soy Nicolás Lopez Vidueiros <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
+<h1>Hola! Soy Nicolás Lopez Vidueiros <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+
+### Tecnologías
+
+![HTML 5](https://img.shields.io/badge/HTML_5-333?style=flat-square&logo=html5&logoColor=%23E34F26)
+![CSS 3](https://img.shields.io/badge/CSS_3-333?style=flat-square&logo=css3&logoColor=%231572B6)
+
+### Herramientas
 
 ### Contacto
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-l%C3%B3pez-vidueiros-653437229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicolás Lopez Vidueiros-blue?style=flat-square&logo=linkedin"></a>
