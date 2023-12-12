@@ -1,11 +1,6 @@
-<h1>Hello! I'm Nicolás Lopez Vidueiros <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
+<h1>Hola! Soy Nicolás Lopez Vidueiros <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
-### About Me
-- I am 25 years old and I am from Buenos Aires, Argentina.
-- I am passionate about technology
-- I am a self-taught and highly creative individual who seeks to learn and improve every day.
-
-### Contact Me
+### Contacto
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-l%C3%B3pez-vidueiros-653437229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicolás Lopez Vidueiros-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto: nicolas.lopez.vidueiros@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-nicolas.lopez.vidueiros@gmail.com-blue?style=flat-square&logo=gmail"></a> 
 
