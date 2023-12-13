@@ -2,10 +2,16 @@
 
 ### Tecnologías
 
+![Python](https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=%233776AB)
+![C++](https://img.shields.io/badge/C%2B%2B-333?style=flat-square&logo=cplusplus&logoColor=%2300599C)
+![Haskell](https://img.shields.io/badge/Haskell-333?style=flat-square&logo=haskell&logoColor=%235D4F85)
 ![HTML 5](https://img.shields.io/badge/HTML_5-333?style=flat-square&logo=html5&logoColor=%23E34F26)
 ![CSS 3](https://img.shields.io/badge/CSS_3-333?style=flat-square&logo=css3&logoColor=%231572B6)
-
-### Herramientas
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+<br>
+![MySQL](https://img.shields.io/badge/MySQL-333?style=flat-square&logo=mysql&logoColor=%234479A1)
+![Arduino](https://img.shields.io/badge/Arduino-333?style=flat-square&logo=arduino&logoColor=%2300878F)
+![Git](https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=%23F05032)
 
 ### Contacto
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-l%C3%B3pez-vidueiros-653437229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicolás Lopez Vidueiros-blue?style=flat-square&logo=linkedin"></a>
