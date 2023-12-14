@@ -13,6 +13,13 @@
 ![Arduino](https://img.shields.io/badge/Arduino-333?style=flat-square&logo=arduino&logoColor=%2300878F)
 ![Git](https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=%23F05032)
 
+### Herramientas
+
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-333?logo=microsoftword&logoColor=%232B579A)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-333?logo=microsoftexcel&logoColor=%23217346)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333?logo=visualstudiocode&logoColor=%23007ACC)
+![Virtual Box](https://img.shields.io/badge/Virtual_Box-333?logo=virtualbox&logoColor=%23183A61)
+
 ### Contacto
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-l%C3%B3pez-vidueiros-653437229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicolás Lopez Vidueiros-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto: nicolas.lopez.vidueiros@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-nicolas.lopez.vidueiros@gmail.com-blue?style=flat-square&logo=gmail"></a> 
