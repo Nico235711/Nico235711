@@ -12,6 +12,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-333?style=flat-square&logo=mysql&logoColor=%234479A1)
 ![Arduino](https://img.shields.io/badge/Arduino-333?style=flat-square&logo=arduino&logoColor=%2300878F)
 ![Git](https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=%23F05032)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-333?style=flat-square&logo=bootstrap&logoColor=%237952B3)
 
 ### Herramientas
 
