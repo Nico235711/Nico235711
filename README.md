@@ -23,7 +23,7 @@
 ![Virtual Box](https://img.shields.io/badge/Virtual_Box-333?logo=virtualbox&logoColor=%23183A61)
 
 ### Contacto
-<a href="https://www.linkedin.com/in/nicol%C3%A1s-l%C3%B3pez-vidueiros-653437229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicolás Lopez Vidueiros-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/nicol%C3%A1s-l%C3%B3pez-vidueiros-653437229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicol%C3%A1s_Lopez_Vidueiros-blue?style=flat-square&logo=linkedin&logoColor=%230A66C2"></a>
 <a href="mailto: nicolas.lopez.vidueiros@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-nicolas.lopez.vidueiros@gmail.com-blue?style=flat-square&logo=gmail"></a> 
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Nico235711&show_icons=true)
