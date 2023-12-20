@@ -24,7 +24,7 @@
 
 ### Certificaciones
 
-<a href="https://todocodeacademy.com/certificate/certificado-html-y-css-kya/">Certificado de HTML y CSS</a>
+<a href="https://todocodeacademy.com/certificate/certificado-html-y-css-kya">Certificado de HTML y CSS</a>
 
 
 ### Contacto
