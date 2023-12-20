@@ -22,11 +22,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-333?logo=visualstudiocode&logoColor=%23007ACC)
 ![Virtual Box](https://img.shields.io/badge/Virtual_Box-333?logo=virtualbox&logoColor=%23183A61)
 
-### Certificaciones
-
-<a href="https://todocodeacademy.com/certificate/certificado-html-y-css-kya/">Certificado de HTML y CSS</a>
-
-
 ### Contacto
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-l%C3%B3pez-vidueiros-653437229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nicol%C3%A1s_Lopez_Vidueiros-blue?style=flat-square&logo=linkedin&logoColor=%230A66C2"></a>
 <a href="mailto: nicolas.lopez.vidueiros@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-nicolas.lopez.vidueiros@gmail.com-blue?style=flat-square&logo=gmail"></a> 
