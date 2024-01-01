@@ -2,6 +2,9 @@
 
 ### Tecnologías
 
+![Python](https://img.shields.io/badge/Python-333?style=plastic&logo=python&logoColor=%233776AB)
+![C++](https://img.shields.io/badge/C%2B%2B-333?style=plastic&logo=cplusplus&logoColor=%2300599C)
+![Arduino](https://img.shields.io/badge/Arduino-333?style=plastic&logo=arduino&logoColor=%2300878F)
 ![HTML 5](https://img.shields.io/badge/HTML_5-333?style=plastic&logo=html5&logoColor=%23E34F26)
 ![CSS 3](https://img.shields.io/badge/CSS_3-333?style=plastic&logo=css3&logoColor=%231572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=plastic&logo=javascript&logoColor=%23F7DF1E)
