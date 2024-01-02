@@ -9,6 +9,10 @@
 ![CSS 3](https://img.shields.io/badge/CSS_3-333?style=plastic&logo=css3&logoColor=%231572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
+### Contactame
+
+<a href="https://www.linkedin.com/in/nicol%C3%A1s-l%C3%B3pez-vidueiros-653437229/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Nicol%C3%A1s_Lopez_Vidueiros-blue?style=flat-square&logo=linkedin&logoColor=%230A66C2"></a>
+<a href="nicolas.lopez.vidueiros@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-nicolas.lopez.vidueiros@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=nico235711&show_icons=true)
 
