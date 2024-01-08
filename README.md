@@ -11,6 +11,8 @@
 ![React](https://img.shields.io/badge/React-333?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/Vite-333?style=flat-square&logo=vite&logoColor=%23646CFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333?style=flat-square&logo=tailwindcss&logoColor=%2306B6D4)
+<br>
+![Style Components](https://img.shields.io/badge/Styled_Components-333?style=flat-square&logo=styledcomponents&logoColor=%23DB7093)
 
 ### Contactame
 
