@@ -18,6 +18,11 @@
 ![Static Badge](https://img.shields.io/badge/SASS-333?style=flat-square&logo=sass&logoColor=%23CC6699)
 ![Static Badge](https://img.shields.io/badge/Tailwind_CSS-333?style=flat-square&logo=tailwindcss&logoColor=%2306B6D4)
 ![Static Badge](https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=%233776AB)
+![Static Badge](https://img.shields.io/badge/Variables_de_Entorno-333?style=flat&logo=dotenv&logoColor=%23ECD53F)
+![Static Badge](https://img.shields.io/badge/Strapi-333?style=flat&logo=strapi&logoColor=%234945FF)
+![Static Badge](https://img.shields.io/badge/Remix-333?style=flat&logo=remix&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/Bootstrap-333?style=flat&logo=bootstrap&logoColor=%237952B3)
+![Static Badge](https://img.shields.io/badge/Git-333?style=flat&logo=git&logoColor=%23F05032)
 
 <h3>Contact Me</h3>
 
