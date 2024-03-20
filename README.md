@@ -26,6 +26,7 @@
 ![Static Badge](https://img.shields.io/badge/MUI-333?logo=mui&logoColor=%23007FFF)
 ![Static Badge](https://img.shields.io/badge/Astro-333?logo=astro&logoColor=%23BC52EE)
 ![Static Badge](https://img.shields.io/badge/Next.js-333?logo=nextdotjs&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/Typescript-333?logo=typescript&logoColor=%233178C6)
 
 <h3>Contact Me</h3>
 
