@@ -24,6 +24,9 @@
 ![Static Badge](https://img.shields.io/badge/Javascript-333?logo=javascript&logoColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/Typescript-333?logo=typescript&logoColor=%233178C6)
 ![Static Badge](https://img.shields.io/badge/MySQL-333?logo=mysql&logoColor=%234479A1)
+![Static Badge](https://img.shields.io/badge/Express-333?logo=express&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&logoColor=%234169E1)
+![Static Badge](https://img.shields.io/badge/Node.js-333?logo=nodedotjs&logoColor=%235FA04E)
 #
 
 <h3>Tools and Platforms:</h3>
