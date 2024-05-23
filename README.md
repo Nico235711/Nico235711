@@ -15,7 +15,6 @@
 ![Static Badge](https://img.shields.io/badge/Remix-333?style=flat&logo=remix&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/Next.js-333?logo=nextdotjs&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/Astro-333?logo=astro&logoColor=%23BC52EE)
-#
 
 <h3>Backend Development:</h3>
 
@@ -27,7 +26,6 @@
 ![Static Badge](https://img.shields.io/badge/Express-333?logo=express&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&logoColor=%234169E1)
 ![Static Badge](https://img.shields.io/badge/Node.js-333?logo=nodedotjs&logoColor=%235FA04E)
-#
 
 <h3>Tools and Platforms:</h3>
 
@@ -40,13 +38,20 @@
 ![Static Badge](https://img.shields.io/badge/Variables_de_Entorno-333?style=flat&logo=dotenv&logoColor=%23ECD53F)
 ![Static Badge](https://img.shields.io/badge/Git-333?style=flat&logo=git&logoColor=%23F05032)
 ![Static Badge](https://img.shields.io/badge/Strapi-333?style=flat&logo=strapi&logoColor=%234945FF)
-#
 
 <h3>Contact Me</h3>
 
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-l%C3%B3pez-vidueiros-653437229/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Nicol%C3%A1s_Lopez_Vidueiros-blue?logo=linkedin&logoColor=%230A66C2"></a>
-<a href="mailto:nicolas.lopez.vidueiros@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-nicolas.lopez.vidueiros@gmail.com-blue?logo=gmail"></a> 
+<a href="mailto:nicolas.lopez.vidueiros@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-nicolas.lopez.vidueiros@gmail.com-blue?logo=gmail"></a>
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=nico235711&show_icons=true)
+<h3>My Stats</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nico235711&show_icons=true&locale=en&layout=compact&theme=react" alt="nico235711" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nico235711&show_icons=true&locale=en&layout=compact&theme=react" alt="nico235711">
+</p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nico235711&label=Profile%20views&color=0e75b6&style=flat" alt="nico235711"></p>
