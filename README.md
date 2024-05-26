@@ -47,11 +47,8 @@
 <h3>My Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nico235711&show_icons=true&locale=en&layout=compact&theme=react" alt="nico235711" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nico235711&show_icons=true&locale=en&layout=compact&theme=react" alt="nico235711">
+  <img width=383 src="https://github-readme-stats.vercel.app/api/top-langs?username=nico235711&show_icons=true&locale=en&layout=compact&theme=react" alt="nico235711" />
+  <img width=500 src="https://github-readme-stats.vercel.app/api?username=nico235711&show_icons=true&locale=en&layout=compact&theme=react" alt="nico235711">
 </p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nico235711&label=Profile%20views&color=0e75b6&style=flat" alt="nico235711"></p>
