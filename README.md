@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolás Lopez Vidueiros 👨‍💻</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-<h3>Frontend Development:</h3>
-
 ![Static Badge](https://img.shields.io/badge/Html_5-333?logo=html5&logoColor=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS_3-333?logo=css3&logoColor=%231572B6)
 ![Static Badge](https://img.shields.io/badge/Javascript-333?logo=javascript&logoColor=%23F7DF1E)
@@ -16,8 +14,6 @@
 ![Static Badge](https://img.shields.io/badge/Next.js-333?logo=nextdotjs&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/Astro-333?logo=astro&logoColor=%23BC52EE)
 
-<h3>Backend Development:</h3>
-
 ![Static Badge](https://img.shields.io/badge/Python-333?logo=python&logoColor=%233776AB)
 ![Static Badge](https://img.shields.io/badge/PHP-333?logo=php&logoColor=%23777BB4)
 ![Static Badge](https://img.shields.io/badge/Javascript-333?logo=javascript&logoColor=%23F7DF1E)
@@ -26,8 +22,6 @@
 ![Static Badge](https://img.shields.io/badge/Express-333?logo=express&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&logoColor=%234169E1)
 ![Static Badge](https://img.shields.io/badge/Node.js-333?logo=nodedotjs&logoColor=%235FA04E)
-
-<h3>Tools and Platforms:</h3>
 
 ![Static Badge](https://img.shields.io/badge/Arduino-333?logo=arduino&logoColor=%2300878F)
 ![Static Badge](https://img.shields.io/badge/C-333?logo=c&logoColor=%23A8B9CC)
@@ -38,6 +32,12 @@
 ![Static Badge](https://img.shields.io/badge/Variables_de_Entorno-333?style=flat&logo=dotenv&logoColor=%23ECD53F)
 ![Static Badge](https://img.shields.io/badge/Git-333?style=flat&logo=git&logoColor=%23F05032)
 ![Static Badge](https://img.shields.io/badge/Strapi-333?style=flat&logo=strapi&logoColor=%234945FF)
+![Static Badge](https://img.shields.io/badge/Sequelize-333?logo=sequelize&logoColor=%2352B0E7)
+![Static Badge](https://img.shields.io/badge/React--Hook--Form-333?logo=reacthookform&logoColor=%23EC5990)
+![Static Badge](https://img.shields.io/badge/React%20Bootstrap-333?logo=reactbootstrap&logoColor=%2341E0FD)
+![Static Badge](https://img.shields.io/badge/React%20Router-333?logo=reactrouter&logoColor=%23CA4245)
+![Static Badge](https://img.shields.io/badge/ZOD-333?logo=zod&logoColor=%233E67B1)
+![Static Badge](https://img.shields.io/badge/Jest-333?logo=jest&logoColor=%23C21325)
 
 <h3>Contact Me</h3>
 
