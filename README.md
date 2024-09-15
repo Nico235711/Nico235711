@@ -46,18 +46,15 @@
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nico235711&theme=dark&hide_border=true"/>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-l%C3%B3pez-vidueiros-653437229/" target="_blank">
+	  <img src="https://img.shields.io/badge/Nicolás_Lopez_Vidueiros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nicolas.lopez.vidueiros@gmail.com">
+	  <img src="https://img.shields.io/badge/Nicolás_Lopez_Vidueiros-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ## 🐍 A Snake Eating my Contributions Graph
