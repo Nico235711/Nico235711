@@ -1,54 +1,67 @@
-<h1 align="center">Hi 👋, I'm Nicolás Lopez Vidueiros 👨‍💻</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h1 align="center">Hi , I am Nicolás Lopez Vidueiros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![Static Badge](https://img.shields.io/badge/Html_5-333?logo=html5&logoColor=%23E34F26)
-![Static Badge](https://img.shields.io/badge/CSS_3-333?logo=css3&logoColor=%231572B6)
-![Static Badge](https://img.shields.io/badge/Javascript-333?logo=javascript&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/Typescript-333?logo=typescript&logoColor=%233178C6)
-![Static Badge](https://img.shields.io/badge/React-333?logo=react&logoColor=%2361DAFB)
-![Static Badge](https://img.shields.io/badge/SASS-333?logo=sass&logoColor=%23CC6699)
-![Static Badge](https://img.shields.io/badge/Tailwind_CSS-333?logo=tailwindcss&logoColor=%2306B6D4)
-![Static Badge](https://img.shields.io/badge/Bootstrap-333?style=flat&logo=bootstrap&logoColor=%237952B3)
-![Static Badge](https://img.shields.io/badge/MUI-333?logo=mui&logoColor=%23007FFF)
-![Static Badge](https://img.shields.io/badge/Remix-333?style=flat&logo=remix&logoColor=%23000000)
-![Static Badge](https://img.shields.io/badge/Next.js-333?logo=nextdotjs&logoColor=%23000000)
-![Static Badge](https://img.shields.io/badge/Astro-333?logo=astro&logoColor=%23BC52EE)
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-![Static Badge](https://img.shields.io/badge/Python-333?logo=python&logoColor=%233776AB)
-![Static Badge](https://img.shields.io/badge/PHP-333?logo=php&logoColor=%23777BB4)
-![Static Badge](https://img.shields.io/badge/Javascript-333?logo=javascript&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/Typescript-333?logo=typescript&logoColor=%233178C6)
-![Static Badge](https://img.shields.io/badge/MySQL-333?logo=mysql&logoColor=%234479A1)
-![Static Badge](https://img.shields.io/badge/Express-333?logo=express&logoColor=%23fff)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&logoColor=%234169E1)
-![Static Badge](https://img.shields.io/badge/Node.js-333?logo=nodedotjs&logoColor=%235FA04E)
+### 🛠 &nbsp;Tech Stack
 
-![Static Badge](https://img.shields.io/badge/Arduino-333?logo=arduino&logoColor=%2300878F)
-![Static Badge](https://img.shields.io/badge/C-333?logo=c&logoColor=%23A8B9CC)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-333?logo=cplusplus&logoColor=%2300599C)
-![Static Badge](https://img.shields.io/badge/Gulp-333?logo=gulp&logoColor=%23CF4647)
-![Static Badge](https://img.shields.io/badge/Haskell-333?logo=haskell&logoColor=%235D4F85)
-![Static Badge](https://img.shields.io/badge/Linux_Mint-333?logo=linuxmint&logoColor=%2387CF3E)
-![Static Badge](https://img.shields.io/badge/Variables_de_Entorno-333?style=flat&logo=dotenv&logoColor=%23ECD53F)
-![Static Badge](https://img.shields.io/badge/Git-333?style=flat&logo=git&logoColor=%23F05032)
-![Static Badge](https://img.shields.io/badge/Strapi-333?style=flat&logo=strapi&logoColor=%234945FF)
-![Static Badge](https://img.shields.io/badge/Sequelize-333?logo=sequelize&logoColor=%2352B0E7)
-![Static Badge](https://img.shields.io/badge/React--Hook--Form-333?logo=reacthookform&logoColor=%23EC5990)
-![Static Badge](https://img.shields.io/badge/React%20Bootstrap-333?logo=reactbootstrap&logoColor=%2341E0FD)
-![Static Badge](https://img.shields.io/badge/React%20Router-333?logo=reactrouter&logoColor=%23CA4245)
-![Static Badge](https://img.shields.io/badge/ZOD-333?logo=zod&logoColor=%233E67B1)
-![Static Badge](https://img.shields.io/badge/Jest-333?logo=jest&logoColor=%23C21325)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Style Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
+![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)&nbsp;
+![Mongoose](https://img.shields.io/badge/mongoose-323330?style=for-the-badge&logo=mongoose&logoColor=blue)&nbsp;
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 
-<h3>Contact Me</h3>
+### 🗃 &nbsp;Databases
 
-<a href="https://www.linkedin.com/in/nicol%C3%A1s-l%C3%B3pez-vidueiros-653437229/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Nicol%C3%A1s_Lopez_Vidueiros-blue?logo=linkedin&logoColor=%230A66C2"></a>
-<a href="mailto:nicolas.lopez.vidueiros@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-nicolas.lopez.vidueiros@gmail.com-blue?logo=gmail"></a>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-<h3>My Stats</h3>
+### 🧰 &nbsp;Version Controll & Tools 
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img width=383 src="https://github-readme-stats.vercel.app/api/top-langs?username=nico235711&show_icons=true&locale=en&layout=compact&theme=react" alt="nico235711" />
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=nico235711&show_icons=true&locale=en&layout=compact&theme=react" alt="nico235711">
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nico235711&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Adityakanoi2001">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nico235711&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=nico235711&label=Profile%20views&color=0e75b6&style=flat" alt="nico235711"></p>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nico235711&theme=dark&hide_border=true"/>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
