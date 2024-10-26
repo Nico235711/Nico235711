@@ -21,6 +21,7 @@
 ![Mongoose](https://img.shields.io/badge/mongoose-323330?style=for-the-badge&logo=mongoose&logoColor=blue)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-%23333?style=for-the-badge&logo=arduino&logoColor=%2300878F)
 
 ### 🗃 &nbsp;Databases
 
