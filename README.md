@@ -39,10 +39,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/Nico235711">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nico235711&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/Nico235711">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nico235711&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
@@ -50,7 +50,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicol%C3%A1s-l%C3%B3pez-vidueiros-653437229/" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolaslopezvidueiros/" target="_blank">
 	  <img src="https://img.shields.io/badge/Nicolás_Lopez_Vidueiros-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nicolas.lopez.vidueiros@gmail.com">
