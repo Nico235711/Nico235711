@@ -1,5 +1,10 @@
 <h1 align="center">Hi , I am Nicolás Lopez Vidueiros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+### 👨‍💻 &nbsp;About Me
+
+- I am a web developer with strong focus in frontend but also i have interesting in backend.
+- I like watching anime, listening music and playing to the playstation.
+
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 ### 🛠 &nbsp;Tech Stack
@@ -15,10 +20,10 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Style Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)&nbsp;
-![Mongoose](https://img.shields.io/badge/mongoose-323330?style=for-the-badge&logo=mongoose&logoColor=blue)&nbsp;
+![Mongoose](https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=green)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-%23333?style=for-the-badge&logo=arduino&logoColor=%2300878F)
