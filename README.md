@@ -2,7 +2,7 @@
 
 ### 👨‍💻 &nbsp;About Me
 
-- I am a web developer with strong focus in frontend but also i have interesting in backend.
+- I am a web developer who is strongly focused on frontend but I am also interested in backend
 - I like watching anime, listening music and playing to the playstation.
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
