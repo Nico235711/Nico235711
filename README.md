@@ -58,3 +58,11 @@
 	  <img src="https://img.shields.io/badge/Nicolás_Lopez_Vidueiros-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+### Snake Game
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<div align="center">
